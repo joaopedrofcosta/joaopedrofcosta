@@ -75,11 +75,11 @@ Meu nome é Joao Pedro Ferreira Costa, tenho 25 anos e sou de Goiás. Atualmente
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="Java"
+    title="Java"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <br/>
 <br/>
