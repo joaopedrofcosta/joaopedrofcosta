@@ -10,13 +10,14 @@ Meu nome é Joao Pedro Ferreira Costa, tenho 25 anos e sou de Goiás. Atualmente
 
 #
 
-<img align="right" alt="" height="190px" src="./src/doexys-pokémon.gif">
+<img align="right" alt="" height="400px" src="./doexys-pokémon.gif">
+
+<div class="tenor-gif-embed" data-postid="5881342807630345869" data-share-method="host" data-aspect-ratio="0.87766" data-width="100%"><a href="https://tenor.com/view/doexys-pok%C3%A9mon-shiny-normal-gif-5881342807630345869">Doexys Pokémon Sticker</a>from <a href="https://tenor.com/search/doexys-stickers">Doexys Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/paulopontodev/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joaopedrosma2020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-costa-b78b17229/)
 
 <h3 align="left">My Stack ~</h3>
 
@@ -88,7 +89,8 @@ Meu nome é Joao Pedro Ferreira Costa, tenho 25 anos e sou de Goiás. Atualmente
 <p>
 
 <!-- STATISTICS-->
-  <img 
+
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -97,6 +99,7 @@ Meu nome é Joao Pedro Ferreira Costa, tenho 25 anos e sou de Goiás. Atualmente
   />
 
 <!-- STACK -->
+
 <img 
       align="left" 
       alt="GitHub Stats" 
