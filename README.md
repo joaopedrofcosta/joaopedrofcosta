@@ -10,9 +10,9 @@ Meu nome é Joao Pedro Ferreira Costa, tenho 25 anos e sou de Goiás. Atualmente
 
 #
 
-<img align="right" alt="" height="400px" src="./doexys-pokémon.gif">
+<img align="right" alt="" height="400px" src="./src/doexys-pokémon.gif">
 
-<div class="tenor-gif-embed" data-postid="5881342807630345869" data-share-method="host" data-aspect-ratio="0.87766" data-width="100%"><a href="https://tenor.com/view/doexys-pok%C3%A9mon-shiny-normal-gif-5881342807630345869">Doexys Pokémon Sticker</a>from <a href="https://tenor.com/search/doexys-stickers">Doexys Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <h3 align="left">Connect with me!</h3>
 
@@ -98,14 +98,6 @@ Meu nome é Joao Pedro Ferreira Costa, tenho 25 anos e sou de Goiás. Atualmente
     src="https://github-readme-stats-eight-mu-58.vercel.app/api?username=joaopedrofcosta&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-<!-- STACK -->
-
-<!-- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-eight-mu-58.vercel.app/api/top-langs/?username=joaoapedrofcosta&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  /> -->
 
 </p>
 
